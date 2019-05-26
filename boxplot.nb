@@ -1,0 +1,62 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1588,         52]
+NotebookOptionsPosition[      1294,         39]
+NotebookOutlinePosition[      1637,         54]
+CellTagsIndexPosition[      1594,         51]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{"Data", ":=", 
+  RowBox[{"{", 
+   RowBox[{
+   "12.8", ",", "12.8", ",", "12.8", ",", "12.8", ",", "13.2", ",", "12.6", 
+    ",", "12.8", ",", "12.9", ",", "12.8", ",", "12.8", ",", "12.8", ",", 
+    "13.1", ",", "12.8"}], "}"}]}], "\[IndentingNewLine]", 
+ RowBox[{"BoxWhiskerChart", "[", 
+  RowBox[{"Data", ",", 
+   RowBox[{"{", 
+    RowBox[{"\"\<Outliers\>\"", ",", 
+     RowBox[{"{", 
+      RowBox[{"\"\<MedianMarker\>\"", ",", "1", ",", 
+       RowBox[{"Directive", "[", "Black", "]"}]}], "}"}]}], "}"}], ",", 
+   RowBox[{"BarOrigin", "\[Rule]", "Left"}]}], "]"}]}], "Input",
+ CellChangeTimes->{{3.7678356398343725`*^9, 
+  3.7678356455815864`*^9}},ExpressionUUID->"3d4ac257-c369-4b76-88e9-\
+5b4d55719da7"]
+},
+WindowSize->{759, 553},
+WindowMargins->{{Automatic, 227}, {-7, Automatic}},
+FrontEndVersion->"11.3 for Microsoft Windows (64-bit) (March 6, 2018)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 732, 17, 67, "Input",ExpressionUUID->"3d4ac257-c369-4b76-88e9-5b4d55719da7"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
